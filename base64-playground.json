@@ -1,0 +1,11 @@
+{
+  "name": "Simple Regex",
+  "author": "Carson McDonald",
+  "description": "A simple regex playground.",
+  "more_info_link": "https://github.com/carsonmcdonald/RandomSwiftPlaygrounds",
+  "location_type": "git",
+  "location": "https://github.com/carsonmcdonald/RandomSwiftPlaygrounds.git",
+  "playground_dir": "SwiftBase64.playground",
+  "min_xcode_version": "6.2",
+  "tags": ["regex"]
+}
